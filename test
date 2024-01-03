@@ -1,0 +1,10 @@
+cat test
+
+######
+
+bat test
+
+####
+
+
+curl https://www.google.com
